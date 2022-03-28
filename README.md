@@ -1,6 +1,7 @@
  oiii meu nome e Ricardo 😃
 
 Ainda estudo,estou no 1* do ensino medio
+
 MEta: ser programador kakakaka
 
 <div align="center">
